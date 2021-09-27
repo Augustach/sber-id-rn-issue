@@ -1,0 +1,11 @@
+<sberid.sdk.auth.view.SberIDButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:buttonCornerRadius="8dp"
+    app:buttonStrokeColor="@color/black400"
+    app:buttonText="login_short"
+    app:buttonType="white_type">
+
+</sberid.sdk.auth.view.SberIDButton>
